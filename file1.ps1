@@ -1,0 +1,1 @@
+get-process | sort vm -desc | select -first 10
